@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 25px;
+    margin: 25px;
+    background: beige;
+}
+
+ol{
+	color: white;
+}
+
+ul{
+	color: white;
+}
+
+h1{
+	font-size: 55px;
+}
+
+h3{
+	padding: 15px;
+	font-size: 25px;
+	color: white;
+}
+
+p{
+	font-size: 20px; 
+	color: white;
+}
+
+.titulo{
+	width: 600px;
+	border: 1px solid #3b2d87;
+	border-radius: 25px;
+	background: #3b2d87;
+	box-shadow: 0 4px 12px #2d2369;
+}
+
+.container{
+    border: 1px solid #6048d9;
+    border-radius: 15px;
+    background: #6048d9;
+	box-shadow: 0 4px 12px black;
+	padding: 15px;
+	
+}
